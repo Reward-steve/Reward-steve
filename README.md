@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Reward Stephen 👋  
+🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React  
 
-<!--
-**Reward-steve/Reward-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**  
+- 💻 Passionate about building modern web applications  
+- 🎨 Love designing interactive and responsive UIs  
+- 📚 Always learning new technologies  
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+- 🌐 HTML | CSS | Sass | Tailwind CSS  
+- ⚛️ React | TypeScript | JavaScript  
+- 📦 Node.js (beginner)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)  
+
