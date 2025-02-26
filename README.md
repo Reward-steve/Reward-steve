@@ -71,7 +71,7 @@ _A web app that provides detailed information about different countries, includi
 ✅ Dark mode support 🌙  
 ✅ Fully responsive design for all devices 📱  
 
-🔗 [Live Demo](https://yourprojectlink.com) | 💻 [GitHub Repository](https://github.com/RewardStephen/my-country-app)  
+🔗 [Live Demo](my-country-app-three.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)  
 
 ---
 
@@ -83,7 +83,22 @@ _An interactive and visually appealing website for food lovers to discover and e
 ✅ Fully responsive for both mobile and desktop users 📱💻  
 ✅ Smooth animations for a modern experience ✨  
 
-🔗 [Live Demo](https://yourprojectlink.com) | 💻 [GitHub Repository](https://github.com/RewardStephen/tastyhub-website)  
+🔗 [Live Demo](tasty-hub-phi.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)  
+
+
+---
+
+### 🎟️ **Conference Ticket Generator**  
+_A dynamic web application that generates unique conference tickets for attendees._  
+📌 **Features:**  
+✅ Generates unique, scannable QR-coded tickets 🎫  
+✅ Users can enter their details and receive an instant digital ticket 📝  
+✅ Admin panel for managing ticket registrations 🛠️  
+✅ Secure and tamper-proof ticket validation 🔐  
+✅ Modern UI with a seamless user experience  
+
+🔗 [Live Demo](conference-ticket-generator-gamma.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/conference-ticket-generator-main)  
+
 
 ---
 
