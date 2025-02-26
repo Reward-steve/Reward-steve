@@ -1,16 +1,115 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="Reward Stephen - Frontend Developer" width="100%" />
+</p>
 
-<!--
-**Reward-steve/Reward-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Reward Stephen 👋  
+🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React**  
 
-Here are some ideas to get you started:
+## 🌟 **About Me**  
+I’m a passionate **Frontend Developer** who enjoys building **beautiful, responsive, and scalable** web applications. With a deep love for **clean UI/UX design** and efficient code, I strive to create **seamless user experiences** with modern web technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My journey into coding started at **FlorinTech Computer College**, where I went from knowing nothing about programming to creating **full-fledged web applications**. Today, I spend my time **pushing boundaries, refining my craft, and learning new technologies**.  
+
+**What drives me?**  
+✅ The challenge of solving real-world problems with code  
+✅ Crafting **intuitive and interactive** user interfaces  
+✅ **Continuous learning and self-improvement**  
+✅ Working on projects that impact people's lives 🌍  
+
+🌱 **Currently learning:** Backend development with **Node.js & Express.js**  
+🔭 **Future Goals:** Becoming a **full-stack developer** and contributing to open-source projects  
+⚡ **Fun Fact:** I love working out 💪 and believe in **consistency & discipline**—both in coding and fitness!  
+
+---
+
+## 🔧 **Tech Stack & Tools**  
+
+### 🌐 **Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+
+### ⚙️ **Backend & Tools**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+
+### 🛠 **Other Tools & Technologies**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+
+---
+
+## 📊 **GitHub Stats & Activity**  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RewardStephen&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RewardStephen&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewardStephen&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🚀 **Recent Projects**  
+Here are some of my latest and most exciting projects:  
+
+### 🌍 **My Country App**  
+_A web app that provides detailed information about different countries, including their flags, population, and economic data._  
+📌 **Features:**  
+✅ Search for any country by name 🌎  
+✅ View country details, including flag, capital, population, and GDP 📊  
+✅ Dark mode support 🌙  
+✅ Fully responsive design for all devices 📱  
+
+🔗 [Live Demo](https://yourprojectlink.com) | 💻 [GitHub Repository](https://github.com/RewardStephen/my-country-app)  
+
+---
+
+### 🍔 **TastyHub Website**  
+_An interactive and visually appealing website for food lovers to discover and explore delicious recipes._  
+📌 **Features:**  
+✅ Browse a collection of mouth-watering recipes 🍽️  
+✅ User-friendly interface with an elegant design 🎨  
+✅ Fully responsive for both mobile and desktop users 📱💻  
+✅ Smooth animations for a modern experience ✨  
+
+🔗 [Live Demo](https://yourprojectlink.com) | 💻 [GitHub Repository](https://github.com/RewardStephen/tastyhub-website)  
+
+---
+
+## 🏆 **Achievements & Fun Facts**  
+🎯 **Fastest Frontend Learner** – Went from beginner to expert in a few months!  
+🔥 **Built 5+ real-world projects** that solve everyday problems  
+🌍 **Dreaming of working remotely for top companies** and collaborating with great minds  
+💪 **Discipline & Consistency** – If I can work out every day, I can code every day!  
+
+---
+
+## 💬 **Let's Connect!**  
+I’m always open to new opportunities, collaborations, or just a friendly chat about web development! Let’s connect:  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=web&logoColor=white)](https://yourwebsite.com)  
+
+---
+
+## 🚀 **Support My Work**  
+If you find my projects useful, consider supporting me by giving a ⭐ on GitHub! 😊  
+
+---
+
+## 🏆 **Profile Visitors**  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RewardStephen" />
+</p>
