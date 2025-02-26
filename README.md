@@ -18,6 +18,12 @@ I’m a passionate **Frontend Developer** who enjoys building **beautiful, respo
 
 ---
 
+📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical)
+
+
+---
+
 ## 🔧 **Tech Stack & Tools**  
 
 ### 🌐 **Frontend**  
