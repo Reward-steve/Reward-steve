@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="Reward Stephen - Frontend Developer" width="100%" />
-</p>
-
 # Hi there, I'm Reward Stephen 👋  
 🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React**  
 
@@ -26,6 +21,7 @@ I’m a passionate **Frontend Developer** who enjoys building **beautiful, respo
 ## 🔧 **Tech Stack & Tools**  
 
 ### 🌐 **Frontend**  
+<div style="display:flex">
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)  
@@ -33,30 +29,23 @@ I’m a passionate **Frontend Developer** who enjoys building **beautiful, respo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+</div>
 
 ### ⚙️ **Backend & Tools**  
+<div style="display:flex">
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+</div>
+
 
 ### 🛠 **Other Tools & Technologies**  
+<div style="display:flex">
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-
----
-
-## 📊 **GitHub Stats & Activity**  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RewardStephen&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RewardStephen&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewardStephen&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
@@ -71,7 +60,7 @@ _A web app that provides detailed information about different countries, includi
 ✅ Dark mode support 🌙  
 ✅ Fully responsive design for all devices 📱  
 
-🔗 [Live Demo](my-country-app-three.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)  
+🔗 [Live Demo](https://my-country-app-three.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)  
 
 ---
 
@@ -83,7 +72,7 @@ _An interactive and visually appealing website for food lovers to discover and e
 ✅ Fully responsive for both mobile and desktop users 📱💻  
 ✅ Smooth animations for a modern experience ✨  
 
-🔗 [Live Demo](tasty-hub-phi.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)  
+🔗 [Live Demo](https://tasty-hub-phi.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)  
 
 
 ---
@@ -97,7 +86,7 @@ _A dynamic web application that generates unique conference tickets for attendee
 ✅ Secure and tamper-proof ticket validation 🔐  
 ✅ Modern UI with a seamless user experience  
 
-🔗 [Live Demo](conference-ticket-generator-gamma.vercel.app) | 💻 [GitHub Repository](https://github.com/Reward-steve/conference-ticket-generator-main)  
+🔗 [Live Demo](https://conference-ticket-generator-gamma.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/conference-ticket-generator-main)  
 
 
 ---
