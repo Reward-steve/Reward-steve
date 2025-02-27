@@ -90,14 +90,13 @@ _A dynamic web application that generates unique conference tickets for attendee
 💪 **Discipline & Consistency** – If I can work out every day, I can code every day!  
 
 ---
+## 📫 How to Reach Me  
+💼 [**LinkedIn**](https://www.linkedin.com/in/reward-stephen-166021310/)  
+🐦 [**Twitter**](https://x.com/RewardStephen)  
+📘 [**Facebook**](https://facebook.com/rewardstephen)  
+📧 **Email:** rewardstephen30@gmail.com  
 
-## 💬 **Let's Connect!**  
-I’m always open to new opportunities, collaborations, or just a friendly chat about web development! Let’s connect:  
-
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reward-stephen-166021310/)  
-Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RewardStephen)  
-Facebook: [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rewardstephen)  
-
+Feel free to reach out if you want to collaborate on a project or just say hi! 😊
 ---
 
 ## 🚀 **Support My Work**  
