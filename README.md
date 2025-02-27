@@ -20,7 +20,7 @@ I’m a passionate **Frontend Developer** who enjoys building **beautiful, respo
 ![Reward Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reward-steve&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Reward-steve&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reward-steve&theme=radical&no-bg=true&no-frame=true&margin-w=15)
