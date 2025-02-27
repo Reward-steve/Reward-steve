@@ -91,9 +91,9 @@ _A dynamic web application that generates unique conference tickets for attendee
 
 ---
 ## 📫 How to Reach Me  
-💼 [**LinkedIn**](https://www.linkedin.com/in/reward-stephen-166021310/)  
-🐦 [**Twitter**](https://x.com/RewardStephen)  
-📘 [**Facebook**](https://facebook.com/rewardstephen)  
+💼 **LinkedIn:** [**LinkedIn**](https://www.linkedin.com/in/reward-stephen-166021310/)  
+🐦 **Twitter:** [**Twitter**](https://x.com/RewardStephen)  
+📘 **Facebook:** [**Facebook**](https://facebook.com/rewardstephen)  
 📧 **Email:** rewardstephen30@gmail.com  
 
 Feel free to reach out if you want to collaborate on a project or just say hi! 😊
