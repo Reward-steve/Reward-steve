@@ -2,9 +2,7 @@
 🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React**  
 
 ## 🌟 **About Me**  
-I’m a passionate **Frontend Developer** who enjoys building **beautiful, responsive, and scalable** web applications. With a deep love for **clean UI/UX design** and efficient code, I strive to create **seamless user experiences** with modern web technologies.  
-
-💡 My journey into coding started at **FlorinTech Computer College**, where I went from knowing nothing about programming to creating **full-fledged web applications**. Today, I spend my time **pushing boundaries, refining my craft, and learning new technologies**.  
+I’m a passionate **Frontend Developer** who enjoys building **beautiful, responsive, and scalable** web applications. With a deep love for **clean UI/UX design** and efficient code, I strive to create **seamless user experiences** with modern web technologies.  I spend my time **pushing boundaries, refining my craft, and learning new technologies**.  
 
 **What drives me?**  
 ✅ The challenge of solving real-world problems with code  
@@ -44,10 +42,6 @@ I’m a passionate **Frontend Developer** who enjoys building **beautiful, respo
  
 ### 🛠 **Other Tools & Technologies**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-007A3D?style=flat-square&logo=coreldraw&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white) ![Typing Speed](https://img.shields.io/badge/-Typing%20Speed%2075%20WPM-00AEEF?style=flat-square&logo=typemaster&logoColor=white)  
-
-
-
-
 
 ---
 
@@ -104,9 +98,9 @@ _A dynamic web application that generates unique conference tickets for attendee
 ## 💬 **Let's Connect!**  
 I’m always open to new opportunities, collaborations, or just a friendly chat about web development! Let’s connect:  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reward-stephen-166021310/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RewardStephen)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square&logo=web&logoColor=white)](https://yourwebsite.com)  
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reward-stephen-166021310/)  
+Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RewardStephen)  
+Facebook: [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rewardstephen)  
 
 ---
 
