@@ -1,5 +1,5 @@
 # Hi there, I'm Reward Stephen 👋  
-🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React**  
+🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React+Vite+TypeScript**  
 
 ## 🌟 **About Me**  
 I’m a passionate **Frontend Developer** who enjoys building **beautiful, responsive, and scalable** web applications. With a deep love for **clean UI/UX design** and efficient code, I strive to create **seamless user experiences** with modern web technologies.  I spend my time **pushing boundaries, refining my craft, and learning new technologies**.  
