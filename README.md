@@ -1,4 +1,4 @@
-# Hi there, I'm Reward Stephen 👋  
+# Hi, I'm Reward Stephen 👋  
 🚀 **Frontend Developer | 🎨 UI/UX Enthusiast | 💡 JavaScript & React+Vite+TypeScript**  
 
 ## 🌟 **About Me**  
