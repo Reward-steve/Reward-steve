@@ -7,7 +7,7 @@
 
 I'm a frontend developer with a strong focus on building clean, responsive, and user-centric web applications. My goal is to deliver interfaces that not only look great but also perform efficiently across devices.
 
-I build with modern technologies like React, TypeScript, and Tailwind CSS, applying best practices in both design and development to create seamless user experiences.
+I build with modern technologies like React, Nextjs, TypeScript, and Tailwind CSS, applying best practices in both design and development to create seamless user experiences.
 
 ---
 ## Featured Projects
@@ -35,7 +35,7 @@ I build with modern technologies like React, TypeScript, and Tailwind CSS, apply
 ## Tech Stack
 
 **Frontend**  
-JavaScript, TypeScript, React, Vite, HTML5, CSS3, Sass, Tailwind CSS
+JavaScript, TypeScript, React, Nextjs, Vite, HTML5, CSS3, Sass, Tailwind CSS
 
 **Backend**  
 Node.js, Express.js, MongoDB
