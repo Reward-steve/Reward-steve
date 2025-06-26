@@ -10,41 +10,25 @@ I'm a frontend developer with a strong focus on building clean, responsive, and 
 I build with modern technologies like React, TypeScript, and Tailwind CSS, applying best practices in both design and development to create seamless user experiences.
 
 ---
-
 ## Featured Projects
 
-### My Country App  
-A dynamic app for exploring detailed country information such as flags, capitals, populations, and GDP data.
+### 🌍 My Country App  
+**Goal:** Help users explore global data such as flags, capitals, populations, and GDP.  
+**Challenge:** Handle missing or inconsistent data from external APIs.  
+**Solution:** Built with React + REST API. Implemented error handling, optimized load times, and ensured full responsiveness.  
+[Live Demo](https://my-country-app-three.vercel.app/) | [GitHub](https://github.com/Reward-steve/My-Country-App)
 
-- Search functionality
-- Country details view
-- Dark mode
-- Fully responsive
+### 🍽️ TastyHub Website  
+**Goal:** Build a beautiful food recipe website with smooth interactions and full responsiveness.  
+**Challenge:** Achieving layout precision across all screen sizes.  
+**Solution:** Created with HTML, CSS, and JavaScript. Designed mobile-first with animation enhancements.  
+[Live Demo](https://tasty-hub-phi.vercel.app/) | [GitHub](https://github.com/Reward-steve/Tasty-hub)
 
-[Live Demo](https://my-country-app-three.vercel.app/) | [GitHub Repo](https://github.com/Reward-steve/My-Country-App)
-
----
-
-### TastyHub Website  
-A modern food discovery website featuring curated recipes and a clean interface.
-
-- Recipe browsing
-- Interactive UI with smooth animations
-- Fully mobile responsive
-
-[Live Demo](https://tasty-hub-phi.vercel.app/) | [GitHub Repo](https://github.com/Reward-steve/Tasty-hub)
-
----
-
-### Conference Ticket Generator  
-A ticketing platform that generates unique, scannable tickets for events with admin control.
-
-- QR code generation
-- Digital ticket system
-- Admin dashboard
-- Modern UI
-
-[Live Demo](https://conference-ticket-generator-gamma.vercel.app/) | [GitHub Repo](https://github.com/Reward-steve/conference-ticket-generator-main)
+### 🎫 Conference Ticket Generator  
+**Goal:** Create a form-driven ticket generator for events.  
+**Challenge:** Validate form inputs, preview image uploads, and dynamically render ticket data.  
+**Solution:** Developed with React, featuring real-time input validation, secure image handling, and dynamic ticket output with user data.  
+[Live Demo](https://conference-ticket-generator-gamma.vercel.app/) | [GitHub](https://github.com/Reward-steve/conference-ticket-generator-main)
 
 ---
 
