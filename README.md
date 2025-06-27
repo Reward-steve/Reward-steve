@@ -58,7 +58,7 @@ _A personal portfolio showcasing my projects and skills, built with Next.js and 
 ✅ Smooth animations  
 ✅ Fully responsive  
 
-🔗 [Live Demo](https://my-portfolio-sage-zeta-84.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
+🔗 [Live Demo](https://my-portfolio-website-chi-kohl.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
 ---
 
 ## Tech Stack
