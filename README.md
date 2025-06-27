@@ -10,26 +10,55 @@ I'm a frontend developer with a strong focus on building clean, responsive, and 
 I build with modern technologies like React, Nextjs, TypeScript, and Tailwind CSS, applying best practices in both design and development to create seamless user experiences.
 
 ---
+
 ## Featured Projects
+Here are some of my latest and most exciting projects:  
 
-### 🌍 My Country App  
-**Goal:** Help users explore global data such as flags, capitals, populations, and GDP.  
-**Challenge:** Handle missing or inconsistent data from external APIs.  
-**Solution:** Built with React + REST API. Implemented error handling, optimized load times, and ensured full responsiveness.  
-[Live Demo](https://my-country-app-three.vercel.app/) | [GitHub](https://github.com/Reward-steve/My-Country-App)
+### 🌍 **My Country App**  
+_A web app that provides detailed information about different countries, including their flags, population, and economic data._  
+📌 **Features:**  
+✅ Search for any country by name 🌎  
+✅ View country details, including flag, capital, population, and GDP 📊  
+✅ Dark mode support 🌙  
+✅ Fully responsive design for all devices 📱  
 
-### 🍽️ TastyHub Website  
-**Goal:** Build a beautiful food recipe website with smooth interactions and full responsiveness.  
-**Challenge:** Achieving layout precision across all screen sizes.  
-**Solution:** Created with HTML, CSS, and JavaScript. Designed mobile-first with animation enhancements.  
-[Live Demo](https://tasty-hub-phi.vercel.app/) | [GitHub](https://github.com/Reward-steve/Tasty-hub)
+🔗 [Live Demo](https://my-country-app-three.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)  
 
-### 🎫 Conference Ticket Generator  
-**Goal:** Create a form-driven ticket generator for events.  
-**Challenge:** Validate form inputs, preview image uploads, and dynamically render ticket data.  
-**Solution:** Developed with React, featuring real-time input validation, secure image handling, and dynamic ticket output with user data.  
-[Live Demo](https://conference-ticket-generator-gamma.vercel.app/) | [GitHub](https://github.com/Reward-steve/conference-ticket-generator-main)
+---
 
+### 🍔 **TastyHub Website**  
+_An interactive and visually appealing website for food lovers to discover and explore delicious recipes._  
+📌 **Features:**  
+✅ Browse a collection of mouth-watering recipes 🍽️  
+✅ User-friendly interface with an elegant design 🎨  
+✅ Fully responsive for both mobile and desktop users 📱💻  
+✅ Smooth animations for a modern experience ✨  
+
+🔗 [Live Demo](https://tasty-hub-phi.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)  
+
+---
+
+### ✂️ **Urban Tailor**  
+_A stylish, responsive fashion brand landing page designed for modern tailoring businesses._  
+📌 **Features:**  
+✅ Modern, elegant UI with smooth transitions 👔  
+✅ Gallery and portfolio display with modal previews  
+✅ About, FAQ, and contact sections  
+✅ Dark/light theme toggle for enhanced UX  
+✅ Mobile-first responsive design  
+
+🔗 [Live Demo](https://urban-tailor.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/urban-tailor)
+
+---
+
+### 👤 **Personal Portfolio**  
+_A personal portfolio showcasing my projects and skills, built with Next.js and Tailwind CSS._  
+📌 **Features:**  
+✅ Next.js & Tailwind CSS  
+✅ Smooth animations  
+✅ Fully responsive  
+
+🔗 [Live Demo](https://my-portfolio-sage-zeta-84.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
 ---
 
 ## Tech Stack
