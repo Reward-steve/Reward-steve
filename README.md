@@ -13,8 +13,7 @@ A fast, responsive app that pulls real-time data from the REST Countries API.
 
 ---
 
-## 🛠 Tech Stack
-
+🔧 **Tech**:
 - **Framework**: React  
 - **Styling**: Chakra UI, SCSS Modules  
 - **Language**: JavaScript  
