@@ -8,15 +8,19 @@ I take designs (or broken code) and turn them into clean, working experiences th
 
 ## 🚀 My Projects
 
-### 🌍 Country Explorer – React + TailwindCSS  
+### 🌍 Country Explorer – React + Chakra UI + SCSS
 A fast, responsive app that pulls real-time data from the REST Countries API.
 
-🔧 **Tech**: React, Tailwind, JavaScript  
-📌 **Features**:
-- Search and view countries
-- Responsive grid layout
-- Country detail page
-- Built with real API data
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: React  
+- **Styling**: Chakra UI, SCSS Modules  
+- **Language**: JavaScript  
+- **Data Source**: [REST Countries API](https://restcountries.com)
+
+---
 
 📱 *Clients often need dashboards or search interfaces like this. This shows my ability to build one from scratch.*
 
