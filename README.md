@@ -1,70 +1,91 @@
-# Hi, I’m Reward Stephen  
-**Frontend Developer | UI/UX Focused | React • TypeScript • Vite**
+# Reward Stephen – Frontend Developer Focused on Fast, Clean, Responsive UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a frontend developer with a strong focus on building clean, responsive, and user-centric web applications. My goal is to deliver interfaces that not only look great but also perform efficiently across devices.
+I'm **Reward Stephen**, a frontend developer who builds fast, clean, responsive web interfaces using modern stacks. My goal is to deliver interfaces that not only look great but also perform well across all devices.
 
-I build with modern technologies like React, Nextjs, TypeScript, and Tailwind CSS, applying best practices in both design and development to create seamless user experiences.
-
----
-
-## Featured Projects
-Here are some of my latest and most exciting projects:  
-
-### 🌍 **My Country App**  
-_A web app that provides detailed information about different countries, including their flags, population, and economic data._  
-📌 **Features:**  
-✅ Search for any country by name 🌎  
-✅ View country details, including flag, capital, population, and GDP 📊  
-✅ Dark mode support 🌙  
-✅ Fully responsive design for all devices 📱  
-
-🔗 [Live Demo](https://my-country-app-three.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)  
+Tech I use: React, Next.js, TypeScript, Tailwind CSS, Vite.
 
 ---
 
-### 🍔 **TastyHub Website**  
-_An interactive and visually appealing website for food lovers to discover and explore delicious recipes._  
-📌 **Features:**  
-✅ Browse a collection of mouth-watering recipes 🍽️  
-✅ User-friendly interface with an elegant design 🎨  
-✅ Fully responsive for both mobile and desktop users 📱💻  
-✅ Smooth animations for a modern experience ✨  
+## 🚀 Featured Projects
 
-🔗 [Live Demo](https://tasty-hub-phi.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)  
+### 🌍 Country Explorer – React + TailwindCSS  
+A clean, responsive UI for exploring country data using the REST Countries API.
 
----
+📌 **Features:**
+- Search by country name  
+- View flag, capital, population, and region  
+- Responsive card layout  
+- Clean component structure
 
-### ✂️ **Urban Tailor**  
-_A stylish, responsive fashion brand landing page designed for modern tailoring businesses._  
-📌 **Features:**  
-✅ Modern, elegant UI with smooth transitions 👔  
-✅ Gallery and portfolio display with modal previews  
-✅ About, FAQ, and contact sections  
-✅ Dark/light theme toggle for enhanced UX  
-✅ Mobile-first responsive design  
+💡 *This project demonstrates my ability to build responsive UI components and consume live REST APIs — exactly what most modern frontend projects need.*
 
-🔗 [Live Demo](https://urban-tailor.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/urban-tailor)
+🔗 [Live Demo](https://my-country-app-three.vercel.app/)  
+💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)
 
 ---
 
-### 👤 **Personal Portfolio**  
-_A personal portfolio showcasing my projects and skills, built with Next.js and Tailwind CSS._  
-📌 **Features:**  
-✅ Next.js & Tailwind CSS  
-✅ Smooth animations  
-✅ Fully responsive  
+### 👤 Personal Portfolio – Next.js + TailwindCSS  
+A production-level portfolio website showcasing my skills, projects, and GitHub work.
 
-🔗 [Live Demo](https://my-portfolio-website-chi-kohl.vercel.app/) | 💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
+📌 **Features:**
+- Built with Next.js & TailwindCSS  
+- Smooth animations  
+- Mobile-first responsive layout  
+- Sections: About, Projects, Contact, GitHub Activity
+
+💡 *This site reflects how I build real-world portfolios for clients — elegant layout, sharp responsiveness, and clear messaging.*
+
+🔗 [Live Demo](https://my-portfolio-website-chi-kohl.vercel.app/)  
+💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
+
 ---
 
-## Tech Stack
+### 🍔 TastyHub Website – React + TailwindCSS  
+A visually engaging recipe browsing experience.
+
+📌 **Features:**
+- Recipe cards grid layout  
+- Smooth hover animations  
+- Fully responsive  
+- Clean UI/UX design
+
+💡 *Great example of building content-rich pages, applying visual hierarchy, and styling with Tailwind CSS.*
+
+🔗 [Live Demo](https://tasty-hub-phi.vercel.app/)  
+💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)
+
+---
+
+### ✂️ Urban Tailor – Tailor Brand Website  
+A modern, responsive landing page for a fashion/tailor brand.
+
+📌 **Features:**
+- Elegant hero section  
+- Modal previews and photo grid  
+- FAQ, contact, and about sections  
+- Dark/light mode toggle
+
+💡 *This shows how I build stylish, conversion-focused pages with strong design systems.*
+
+🔗 [Live Demo](https://urban-tailor.vercel.app/)  
+💻 [GitHub Repository](https://github.com/Reward-steve/urban-tailor)
+
+---
+
+## 🧰 Tech Stack
 
 **Frontend**  
-JavaScript, TypeScript, React, Nextjs, Vite, HTML5, CSS3, Sass, Tailwind CSS
+React, Next.js, TypeScript, Vite, TailwindCSS, HTML5, CSS3, Sass
 
 **Backend**  
 Node.js, Express.js, MongoDB
@@ -74,7 +95,7 @@ Git, GitHub, VS Code, Figma, CorelDRAW, Microsoft Word, PowerPoint
 
 ---
 
-## GitHub Insights
+## 📈 GitHub Insights
 
 ![Reward Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800)
 
@@ -86,16 +107,16 @@ Git, GitHub, VS Code, Figma, CorelDRAW, Microsoft Word, PowerPoint
 
 ---
 
-## Contact
+## 📬 Contact
 
-- LinkedIn: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310/)
-- Twitter: [x.com/RewardStephen](https://x.com/RewardStephen)
-- Facebook: [facebook.com/rewardstephen](https://facebook.com/rewardstephen)
-- Email: rewardstephen30@gmail.com
+- 📧 Email: rewardstephen30@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310/)  
+- 🐦 Twitter: [x.com/RewardStephen](https://x.com/RewardStephen)  
+- 📘 Facebook: [facebook.com/rewardstephen](https://facebook.com/rewardstephen)
 
 ---
 
-## Support
+## ⭐ Support
 
-If you find my projects useful, feel free to give a ⭐ on GitHub.  
+If you find my projects useful, feel free to ⭐ the repo.  
 ![Profile Views](https://komarev.com/ghpvc/?username=Reward-steve&color=blue)
