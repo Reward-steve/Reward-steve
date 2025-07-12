@@ -13,11 +13,12 @@ A fast, responsive app that pulls real-time data from the REST Countries API.
 
 ---
 
-🔧 **Tech**:
-- **Framework**: React  
-- **Styling**: Chakra UI, SCSS Modules  
-- **Language**: JavaScript  
-- **Data Source**: [REST Countries API](https://restcountries.com)
+🔧 **Tech**: React, Chakra UI, SCSS Modules, JavaScript, [REST Countries API](https://restcountries.com)
+📌 **Features**:
+- Search and view countries
+- Responsive grid layout
+- Country detail page
+- Built with real API data
 
 ---
 
