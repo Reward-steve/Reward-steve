@@ -13,7 +13,7 @@ A fast, responsive app that pulls real-time data from the REST Countries API.
 
 ---
 
-🔧 **Tech**: React, Chakra UI, SCSS Modules, JavaScript, REST Countries API
+🔧 **Tech**: React, Scss, JavaScript, API  
 📌 **Features**:
 - Search and view countries
 - Responsive grid layout
