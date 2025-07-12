@@ -1,91 +1,96 @@
-# Reward Stephen — Frontend Developer Focused on Clean, Fast, Responsive UI
+# Reward Stephen — Frontend Developer Who Delivers Fast, Clean, Responsive Interfaces
 
-I'm a frontend developer who turns ideas into responsive, production-ready interfaces using React, Next.js, Tailwind CSS, and TypeScript. My work is focused on clean structure, smooth UX, and cross-device compatibility.
+Hi, I'm Reward — a frontend developer focused on building reliable, responsive UIs using React, Next.js, TypeScript, and Tailwind CSS.
 
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3, Sass
-- **Frameworks**: React, Next.js, Vite
-- **Styling**: Tailwind CSS, Chakra UI
-- **Backend (Basic)**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, VS Code, Figma
+I take designs (or broken code) and turn them into clean, working experiences that look great and perform across devices.
 
 ---
 
-## 🚀 Projects
+## 🚀 My Projects
 
-### 🌍 Country Explorer  
-An interactive app to search and view country data using the REST Countries API.
+### 🌍 Country Explorer – React + TailwindCSS  
+A fast, responsive app that pulls real-time data from the REST Countries API.
 
-**Tech**: React, Tailwind CSS, TypeScript  
-**Features**:
-- Search and filter countries
-- Detail page with flag, population, and region
-- Responsive layout for all screen sizes
+🔧 **Tech**: React, Tailwind, JavaScript  
+📌 **Features**:
+- Search and view countries
+- Responsive grid layout
+- Country detail page
+- Built with real API data
 
-**Live**: [View Demo](https://my-country-app-three.vercel.app)  
-**Code**: [GitHub Repo](https://github.com/Reward-steve/My-Country-App)
+📱 *Clients often need dashboards or search interfaces like this. This shows my ability to build one from scratch.*
 
----
-
-### 👤 Personal Portfolio  
-A polished developer portfolio site showcasing my projects and skills.
-
-**Tech**: Next.js, Tailwind CSS  
-**Features**:
-- Animated section transitions  
-- GitHub integration and live project previews  
-- Fully responsive layout
-
-**Live**: [View Demo](https://my-portfolio-website-chi-kohl.vercel.app)  
-**Code**: [GitHub Repo](https://github.com/Reward-steve/my-portfolio)
+🔗 [Live Demo](https://my-country-app-three.vercel.app) • 💻 [Code](https://github.com/Reward-steve/My-Country-App)
 
 ---
 
-### 🍔 TastyHub  
-A UI demo for a recipe app designed for great visual presentation.
+### 👤 Personal Portfolio – Next.js + TailwindCSS  
+My professional portfolio — simple, modern, and responsive.
 
-**Tech**: React, Tailwind CSS  
-**Features**:
-- Grid layout with hover effects  
-- Clean visual hierarchy  
+🔧 **Tech**: Next.js, TypeScript, TailwindCSS  
+📌 **Features**:
+- Animated transitions  
+- Clean structure  
+- GitHub + Project integrations
+
+🔗 [Live Demo](https://my-portfolio-website-chi-kohl.vercel.app) • 💻 [Code](https://github.com/Reward-steve/my-portfolio)
+
+---
+
+### 🍔 TastyHub – Recipe UI Showcase  
+A responsive UI demo for a food-based website — focused on layout, color, and spacing.
+
+🔧 **Tech**: React, TailwindCSS  
+📌 **Features**:
+- Recipe grid
+- Responsive layout
+- Hover animations and clean design
+
+🔗 [Live Demo](https://tasty-hub-phi.vercel.app) • 💻 [Code](https://github.com/Reward-steve/Tasty-hub)
+
+---
+
+### ✂️ Urban Tailor – Brand Landing Page  
+A stylish one-page site for a fictional tailoring brand.
+
+🔧 **Tech**: Nextjs, Typescript, TailwindCSS  
+📌 **Features**:
+- Hero section, About, Contact, FAQ
+- Image gallery with modal preview
+- Theme toggle (dark/light)
 - Mobile-first design
 
-**Live**: [View Demo](https://tasty-hub-phi.vercel.app)  
-**Code**: [GitHub Repo](https://github.com/Reward-steve/Tasty-hub)
+🔗 [Live Demo](https://urban-tailor.vercel.app) • 💻 [Code](https://github.com/Reward-steve/urban-tailor)
 
 ---
 
-### ✂️ Urban Tailor  
-Landing page for a modern tailoring brand.
+## 🧰 Tech Skills
 
-**Tech**: HTML, CSS, JavaScript  
-**Features**:
-- Hero section with CTA  
-- Gallery and modal interaction  
-- FAQ and contact section  
-- Dark/light toggle
+**Languages & Frameworks**  
+React, Next.js, TypeScript, Vite, HTML5, CSS3, Sass
 
-**Live**: [View Demo](https://urban-tailor.vercel.app)  
-**Code**: [GitHub Repo](https://github.com/Reward-steve/urban-tailor)
+**Styling & UI**  
+TailwindCSS, Chakra UI, CorelDRAW, Figma
+
+**Tools & Stack**  
+Git, GitHub, VS Code, Node.js, Express.js, MongoDB
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&hide_border=true)
+![Reward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reward-steve&layout=compact&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Reward-steve&theme=dark)
 
 ---
 
 ## 📬 Contact
 
 - **Email**: rewardstephen30@gmail.com  
-- **LinkedIn**: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310/)  
+- **LinkedIn**: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310)  
 - **Twitter**: [x.com/RewardStephen](https://x.com/RewardStephen)
 
 ---
 
-## ⭐ If you find my work useful, give a star or follow. Let's build something great.
+## ⭐ If you found my projects useful or want to collaborate, feel free to star, follow, or connect.
