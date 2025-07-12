@@ -1,122 +1,91 @@
-# Reward Stephen – Frontend Developer Focused on Fast, Clean, Responsive UI
+# Reward Stephen — Frontend Developer Focused on Clean, Fast, Responsive UI
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+I'm a frontend developer who turns ideas into responsive, production-ready interfaces using React, Next.js, Tailwind CSS, and TypeScript. My work is focused on clean structure, smooth UX, and cross-device compatibility.
 
 ---
 
-## 👋 About Me
+## 🔧 Tech Stack
 
-I'm **Reward Stephen**, a frontend developer who builds fast, clean, responsive web interfaces using modern stacks. My goal is to deliver interfaces that not only look great but also perform well across all devices.
-
-Tech I use: React, Next.js, TypeScript, Tailwind CSS, Vite.
-
----
-
-## 🚀 Featured Projects
-
-### 🌍 Country Explorer – React + TailwindCSS  
-A clean, responsive UI for exploring country data using the REST Countries API.
-
-📌 **Features:**
-- Search by country name  
-- View flag, capital, population, and region  
-- Responsive card layout  
-- Clean component structure
-
-💡 *This project demonstrates my ability to build responsive UI components and consume live REST APIs — exactly what most modern frontend projects need.*
-
-🔗 [Live Demo](https://my-country-app-three.vercel.app/)  
-💻 [GitHub Repository](https://github.com/Reward-steve/My-Country-App)
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3, Sass
+- **Frameworks**: React, Next.js, Vite
+- **Styling**: Tailwind CSS, Chakra UI
+- **Backend (Basic)**: Node.js, Express.js, MongoDB
+- **Tools**: Git, GitHub, VS Code, Figma
 
 ---
 
-### 👤 Personal Portfolio – Next.js + TailwindCSS  
-A production-level portfolio website showcasing my skills, projects, and GitHub work.
+## 🚀 Projects
 
-📌 **Features:**
-- Built with Next.js & TailwindCSS  
-- Smooth animations  
-- Mobile-first responsive layout  
-- Sections: About, Projects, Contact, GitHub Activity
+### 🌍 Country Explorer  
+An interactive app to search and view country data using the REST Countries API.
 
-💡 *This site reflects how I build real-world portfolios for clients — elegant layout, sharp responsiveness, and clear messaging.*
+**Tech**: React, Tailwind CSS, TypeScript  
+**Features**:
+- Search and filter countries
+- Detail page with flag, population, and region
+- Responsive layout for all screen sizes
 
-🔗 [Live Demo](https://my-portfolio-website-chi-kohl.vercel.app/)  
-💻 [GitHub Repository](https://github.com/Reward-steve/my-portfolio)
-
----
-
-### 🍔 TastyHub Website – React + TailwindCSS  
-A visually engaging recipe browsing experience.
-
-📌 **Features:**
-- Recipe cards grid layout  
-- Smooth hover animations  
-- Fully responsive  
-- Clean UI/UX design
-
-💡 *Great example of building content-rich pages, applying visual hierarchy, and styling with Tailwind CSS.*
-
-🔗 [Live Demo](https://tasty-hub-phi.vercel.app/)  
-💻 [GitHub Repository](https://github.com/Reward-steve/Tasty-hub)
+**Live**: [View Demo](https://my-country-app-three.vercel.app)  
+**Code**: [GitHub Repo](https://github.com/Reward-steve/My-Country-App)
 
 ---
 
-### ✂️ Urban Tailor – Tailor Brand Website  
-A modern, responsive landing page for a fashion/tailor brand.
+### 👤 Personal Portfolio  
+A polished developer portfolio site showcasing my projects and skills.
 
-📌 **Features:**
-- Elegant hero section  
-- Modal previews and photo grid  
-- FAQ, contact, and about sections  
-- Dark/light mode toggle
+**Tech**: Next.js, Tailwind CSS  
+**Features**:
+- Animated section transitions  
+- GitHub integration and live project previews  
+- Fully responsive layout
 
-💡 *This shows how I build stylish, conversion-focused pages with strong design systems.*
-
-🔗 [Live Demo](https://urban-tailor.vercel.app/)  
-💻 [GitHub Repository](https://github.com/Reward-steve/urban-tailor)
+**Live**: [View Demo](https://my-portfolio-website-chi-kohl.vercel.app)  
+**Code**: [GitHub Repo](https://github.com/Reward-steve/my-portfolio)
 
 ---
 
-## 🧰 Tech Stack
+### 🍔 TastyHub  
+A UI demo for a recipe app designed for great visual presentation.
 
-**Frontend**  
-React, Next.js, TypeScript, Vite, TailwindCSS, HTML5, CSS3, Sass
+**Tech**: React, Tailwind CSS  
+**Features**:
+- Grid layout with hover effects  
+- Clean visual hierarchy  
+- Mobile-first design
 
-**Backend**  
-Node.js, Express.js, MongoDB
-
-**Tools & Workflow**  
-Git, GitHub, VS Code, Figma, CorelDRAW, Microsoft Word, PowerPoint
+**Live**: [View Demo](https://tasty-hub-phi.vercel.app)  
+**Code**: [GitHub Repo](https://github.com/Reward-steve/Tasty-hub)
 
 ---
 
-## 📈 GitHub Insights
+### ✂️ Urban Tailor  
+Landing page for a modern tailoring brand.
 
-![Reward Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800)
+**Tech**: HTML, CSS, JavaScript  
+**Features**:
+- Hero section with CTA  
+- Gallery and modal interaction  
+- FAQ and contact section  
+- Dark/light toggle
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Reward-steve&theme=dark)
+**Live**: [View Demo](https://urban-tailor.vercel.app)  
+**Code**: [GitHub Repo](https://github.com/Reward-steve/urban-tailor)
 
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reward-steve&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reward-steve&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reward-steve&theme=radical&no-bg=true&no-frame=true&margin-w=15)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: rewardstephen30@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310/)  
-- 🐦 Twitter: [x.com/RewardStephen](https://x.com/RewardStephen)  
-- 📘 Facebook: [facebook.com/rewardstephen](https://facebook.com/rewardstephen)
+- **Email**: rewardstephen30@gmail.com  
+- **LinkedIn**: [linkedin.com/in/reward-stephen-166021310](https://www.linkedin.com/in/reward-stephen-166021310/)  
+- **Twitter**: [x.com/RewardStephen](https://x.com/RewardStephen)
 
 ---
 
-## ⭐ Support
-
-If you find my projects useful, feel free to ⭐ the repo.  
-![Profile Views](https://komarev.com/ghpvc/?username=Reward-steve&color=blue)
+## ⭐ If you find my work useful, give a star or follow. Let's build something great.
