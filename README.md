@@ -11,16 +11,12 @@ I take designs (or broken code) and turn them into clean, working experiences th
 ### 🌍 Country Explorer – React + Chakra UI + SCSS
 A fast, responsive app that pulls real-time data from the REST Countries API.
 
----
-
 🔧 **Tech**: React, Scss, JavaScript, API  
 📌 **Features**:
 - Search and view countries
 - Responsive grid layout
 - Country detail page
 - Built with real API data
-
----
 
 📱 *Clients often need dashboards or search interfaces like this. This shows my ability to build one from scratch.*
 
